@@ -12,3 +12,6 @@
 
 #Hacker's Guide
 [Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+
+#Miscellaneous
+[CUDA Installation](http://www.pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/)
